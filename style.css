@@ -1,0 +1,27 @@
+body {
+    background-color: #f8d0e7; /* Light Pink Background */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#video {
+    border: 2px solid #fff;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #fff;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #f0f0f0;
+}
